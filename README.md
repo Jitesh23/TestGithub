@@ -1,2 +1,4 @@
 # TestGithub
-This is for creating new repository
+============
+
+TestGithub is a repository for showing the bare minimums of github how to menuover, function, etc.
